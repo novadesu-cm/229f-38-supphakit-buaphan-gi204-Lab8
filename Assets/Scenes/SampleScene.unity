@@ -396,7 +396,7 @@ GameObject:
   - component: {fileID: 670190765}
   - component: {fileID: 670190764}
   - component: {fileID: 670190763}
-  - component: {fileID: 670190768}
+  - component: {fileID: 670190769}
   m_Layer: 0
   m_Name: Cube-Torque
   m_TagString: Untagged
@@ -524,7 +524,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &670190768
+--- !u!114 &670190769
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 517f30eb6f7ab264392c6caa908e0a99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TorqueRotate
-  TorqueRotateSpeed: 5
+  TorqueRotateSpeed: 1
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
